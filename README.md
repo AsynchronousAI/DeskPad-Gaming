@@ -4,7 +4,9 @@
   </a>
 </h3>
 
-# DeskPad
+# DeskPad (for Gaming)
+> **NOTE:** This fork increases the default 60hz cap to 50,000hz. This can be very helpful when attempting to play games over the refresh rate that your monitor is since Metal caps.
+
 A virtual monitor for screen sharing
 
 <h3 align="center">
